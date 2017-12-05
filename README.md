@@ -1,0 +1,1 @@
+# ssotme-python-django-seed
